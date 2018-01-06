@@ -445,9 +445,9 @@ longest@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/longest/-/longest-1.0.1.tgz#30a0b2da38f73770e8294a0d22e6625ed77d0097"
 
-lvyii_third_party_oauth@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.npmjs.org/lvyii_third_party_oauth/-/lvyii_third_party_oauth-0.0.1.tgz#cf842b517b69fef6d52fd14b5dde82a4d6ce5be0"
+lvyii_third_party_oauth@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.npmjs.org/lvyii_third_party_oauth/-/lvyii_third_party_oauth-0.0.2.tgz#5984630c5642473a25ff268bc7d945197f1ef08f"
   dependencies:
     bluebird "^3.5.1"
     body-parser "^1.18.2"
